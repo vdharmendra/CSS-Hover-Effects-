@@ -24,11 +24,11 @@ This is a simple web project demonstrating various CSS text hover effects. The p
 <a href="https://www.behance.net/gallery/215418545/Text-Hover-Effect" target="_blank">
 <img style="width:350px;" src="./img/hoverEffect.gif" alt="" /></a>
 <br />
-cover
+cover<br />
 <a href="https://www.behance.net/gallery/215418545/Text-Hover-Effect" target="_blank">
 <img style="width:350px;" src="./img/cover.png" alt="" /></a>
 <br />
-element
+element<br />
 <a href="https://www.behance.net/gallery/215418545/Text-Hover-Effect" target="_blank">
 <img style="width:350px;" src="./img/elements.png" alt="" /></a>
 <br />
